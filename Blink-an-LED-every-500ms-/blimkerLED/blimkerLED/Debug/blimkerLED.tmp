@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\arduino projects\blimkerLED\blimkerLED\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\arduino projects\blimkerLED\blimkerLED\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\arduino projects\blimkerLED\blimkerLED\Debug\blimkerLED.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>blimkerLED.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>blimkerLED.map</FILE>
+  <FILE>blimkerLED.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>E:\arduino projects\blimkerLED\blimkerLED\main.asm</FILE><LINE>9</LINE></START>
+  <DELAY><FILE>E:\arduino projects\blimkerLED\blimkerLED\main.asm</FILE><LINE>15</LINE></DELAY>
+  <LOOP1><FILE>E:\arduino projects\blimkerLED\blimkerLED\main.asm</FILE><LINE>16</LINE></LOOP1>
+  <LOOP2><FILE>E:\arduino projects\blimkerLED\blimkerLED\main.asm</FILE><LINE>17</LINE></LOOP2>
+  <LOOP3><FILE>E:\arduino projects\blimkerLED\blimkerLED\main.asm</FILE><LINE>18</LINE></LOOP3>
+ </LABELS>
+</ASSEMBLER_INFO>
